@@ -6,7 +6,7 @@
         "nomManga": "One Piece - : One Piece - Édition originale - Tome 106 site:fnac.com",
         "Editeur": "Glénat",
         "collection": "B.d.japonaises",
-        "Nombre de pages": 208,
+        "nombre_pages": 208,
         "propos": "Parvenu sur l’île futuriste d’Egg Head, l’équipage de Chapeau de paille découvre le laboratoire du docteur Végapunk ainsi qu’une multitude de technologies inconnues qui stimulent le goût de Luffy pour l’exploration ! Mais voilà que le CP-0 fait irruption dans le but de supprimer le génial inventeur ! Les aventures de Luffy à la poursuite du One Piece continuent !",
          "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/b2/37/ee/15611826/1540-1/tsp20231206082754/One-Piece-Edition-originale-Tome-106.jpg"
       },
@@ -15,7 +15,7 @@
         "nomManga": "Fairy Tail - : Fairy Tail - 100 Years Quest T15 site:fnac.com",
         "Editeur": "Pika",
         "collection": "Pika Shonen",
-        "Nombre de pages": 192,
+        "nombre_pages": 192,
         "propos": "La guilde reprend la route vers Guiltina en quête d’informations sur Athena, l’arme ultime de destruction des dragons divins. Natsu et ses amis sont alors confrontés à des alchimistes, des mages d’un genre très particulier. Manquant de vigilance, Erza, Gerald et Lucy se font capturer ! Cependant, les membres de Fairy Tail reçoivent un soutien inattendu : la guilde de Saber Tooth, qui faisait du tourisme dans la région, propose une alliance… Les deux équipes vont-elles réussir à tenir tête à Gold Owl, la troublante guilde...",
         "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/b3/e8/ef/15722675/1540-1/tsp20231206081439/Fairy-Tail-100-Years-Quest-T15.jpg"
       },
@@ -24,7 +24,7 @@
         "nomManga": "Moi, Quand Je Me Réincarne En Slime - : Moi, quand je me réincarne en Slime - Tome 22 site:fnac.com",
         "Editeur": "Kurokawa Eds",
         "collection": "B.d.japonaises",
-        "Nombre de page": 192,
+        "nombre_pages": 192,
         "propos": "Comment un slime devient le seigneur du royaume !Hinata Sakaguchi s'est laissé piéger par les manigances des Septenniens. Les potions et les sorts de soin restent sans effet, et Hinata semble à l'agonie. Soudain surgit Luminus, qui châtie les Septenniens et la sauve. Mais quelles sont ses intentions et que vont devenir les Septenniens, ainsi que Hinata ?",
         "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/3f/0c/ef/15666239/1540-1/tsp20231202073452/Moi-quand-je-me-reincarne-en-Slime-Tome-22.jpg"
       },
@@ -33,7 +33,7 @@
         "nomManga": "Black Clover - : Black Clover T35 site:fnac.com",
         "Editeur": "Crunchyroll Kaze",
         "collection": "Shonen",
-        "Nombre de projet": 192,
+        "nombre_pages": 192,
         "propos": "Comment un slime devient le seigneur du royaume !Hinata Sakaguchi s'est laissé piéger par les manigances des Septenniens. Les potions et les sorts de soin restent sans effet, et Hinata semble à l'agonie. Soudain surgit Luminus, qui châtie les Septenniens et la sauve",
         "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/21/1d/f3/15932705/1540-1/tsp20231206080509/Black-Clover-T35.jpg"
       },
@@ -42,7 +42,7 @@
         "nomManga": "Fullmetal Alchemist - Tome 17 : Fullmetal Alchemist Perfect - tome 17 site:fnac.com",
         "Editeur": "Kurokawa Eds",
         "collection": "Fullmetal Alchemist",
-        "Nombre de page": 280,
+        "nombre_pages": 280,
         "propos": "Avec son subtil mélange d'action, d'humour, de suspense et de tragédie, Fullmetal Alchemist est le titre incontournable pour toute mangathèque !Les troupes de Briggs sont lancées dans une lutte sans merci pour le contrôle du quartier général alors qu'Edward Elric et le colonel Mustang s'enfoncent de plus en plus profondément dans le repère du mystérieux Père. Le combat est loin d'être gagné car les homonculus sont prêts à tout sacrifier pour mener à bien leur terrible plan.",
         "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/30/0c/ef/15666224/1540-1/tsp20231201074815/Fullmetal-Alchemist-Perfect-tome-17.jpg"
       },
@@ -51,7 +51,7 @@
         "nomMonga": "Dandadan - : Dandadan T09 site:fnac.com ",
         "Editeur": "Crunchyroll Kaze",
         "collection": "Shonen Up",
-        "Nombre de page": 192,
+        "nombre_pages": 192,
         "propos": "Avec son subtil mélange d'action, d'humour, de suspense et de tragédie, Fullmetal Alchemist est le titre incontournable pour toute mangathèque !Les troupes de Briggs sont lancées dans une lutte sans merci pour le contrôle",
         "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/0f/fb/f2/15923983/1540-1/tsp20231206073836/Dandadan-T09.jpg"
       }
@@ -63,7 +63,7 @@
             "nomMonga": "Radiant - Tome 18 : Radiant - Tome 18 site:fnac.com",
             "Editeur": "Ankama",
             "collection": "26 août 2022 (États-Unis)",
-            "Nombre de page": 184,
+            "nombre_pages": 184,
             "propos": "Alors que l’affrontement contre les Domitors fait rage, Seth parvient à expulser Piodon du champ de bataille. Profitant de la cohue, Grimm, Ocoho, Diabal et Lupa s’échappent, emportant Seth inconscient. En chemin, ils récupèrent Doc et Mélie qui est parvenue à accomplir le rituel qui la lie à son Némésis.Une fois en sécurité, Lupa révèle qu’Adhès veut soumettre le monde au jugement dernier. Seth jure alors de contrer le plan ‘’Tartaros’’.",
             "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/71/aa/e7/15182449/1540-1/tsp20231117092812/Radiant-Tome-18.jpg"
           },
@@ -72,7 +72,7 @@
             "nomMonga": "Goblin Slayer - : Goblin Slayer - Tome 14",
             "Editeur": "Kurokawa Eds",
             "collection": "Shonen Up",
-            "Nombre de page": 180,
+            "nombre_pages": 180,
             "propos": " Je ne sauve pas le monde. Je ne fais que tuer des gobelins. Le Crève-gobelins et son groupe contre-attaquent les gobelins qui assaillent le nouveau camp d'entrainement pour aventuriers. Au fond de la grotte, quelle stratégie le Crève-gobelins va-t-il mettre en œuvre  Apparemment, c'est pour un mariage.",
             "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/3b/0c/ef/15666235/1540-1/tsp20231202073648/Goblin-Slayer-Tome-14.jpg"
           },
@@ -81,7 +81,7 @@
             "nomMonga":"The Rising Of The Shield Hero - : The Rising of the Shield Hero - vol. 23 site:fnac.com",
             "Editeur": "Bamboo Eds",
             "collection": "Doki Doki",
-            "Nombre de page": 176,
+            "nombre_pages": 176,
             "propos": "Pour voler au secours des enfants semi-humains, Naofumi et ses compères s'inscrivent incognito à un tournoi clandestin !On est chez nous... c'est notre village, ici ! t on le défendra quoi qu'il en coûte !Naofumi et le reste de sa compagnie se rendent à Zeltoble, où ils obtiennent la preuve irréfutable que des enfants semi-humains originaires du village de Lurolona sont vendus comme esclaves au cours d'enchères clandestines. Bien décidés à les arracher à cet effroyable destin, ils décident de gagner la plus grosse somme...",
             "postaire:"https://static.fnac-static.com/multimedia/PE/Images/FR/NR/bd/7a/ee/15628989/1540-1/tsp20231206084103/The-Rising-of-the-Shield-Hero-vol-23.jpg"
           },
@@ -90,7 +90,7 @@
             "nomMonga": "Arifureta - : Arifureta - De zéro à héros T11 site:fnac.com",
             "Editeur": "Delcourt",
             "collection": "Shonen Tonkam",
-            "Nombre de page": 190,
+            "nombre_pages": 190,
             "propos": "Hajime est persécuté par sa classe. Lorsque sa classe est envoyée dans un autre monde, tous acquièrent des compétences magiques, alors que lui n'obtient que celle d'artisan. Trahi par un de ses camarades, blessé et laissé pour mort dans un donjon, il se réveille dans un niveau très élevé et peuple de puissants monstres. Il se jure de devenir plus fort pour remonter a` la surface et se venge",
             "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/7f/f7/f2/15923071/1540-1/tsp20231206072655/Arifureta-De-zero-a-heros-T11.jpg"
           },
@@ -99,7 +99,7 @@
             "nomMonga": "Demon Slave - : Demon Slave - Tome 12 site:fnac.com",
             "Editeur": "Kurokawa Eds",
             "collection": "Shonen",
-            "Nombre de page":192 ,
+            "nombre_pages":192 ,
             "propos": "Quand le scénariste de Red Eyes Sword donne le pouvoir aux femmes et enchaîne son héros !Les Yaraijin passent enfin à l'offensive !Alors que l'état d'urgence est décrété sur Mato, les différents escadrons subissent des offensives simultanées. Une ancienne Commandante du 7e escadron, Yumeji Shimomura, a pour mission de s'attaquer à la jeune Konomi Tatara, Commandante du 1er escadron.Kyôka, Riu et Yûki se lancent à sa poursuite mais Yumeji utilise ses pouvoirs pour les séparer en deux groupes ! Konomi pourra-t-elle...",
             "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/32/0c/ef/15666226/1540-1/tsp20231202075151/Demon-Slave-Tome-12.jpg"
           },
@@ -108,7 +108,7 @@
             "nomManga": "One Piece - Luffy versus la bande à Baggy !! Tome 02 : One Piece - Édition originale - Tome 02 site:fnac.com",
             "Editeur": "Glénat",
             "collection": "Shônen",
-            "Nombre de page":208 ,
+            "nombre_pages":208 ,
             "propos": "Luffy fait la connaissance de Nami, une ravissante jeune fille maîtrisant la navigation. Seulement, Nami déteste les pirates et refuse d’entrer dans son équipage. Pire, elle fait prisonnier Luffy, pour le livrer au terrible… Baggy le clown !",
             "postaire": "https://static.fnac-static.com/multimedia/PE/Images/FR/NR/a1/e1/4c/5038497/1540-1/tsp20231122074150/One-Piece-Edition-originale-Tome-02.jpg"
           }
