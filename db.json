@@ -54,62 +54,32 @@
         "propos": "Avec son subtil mélange d'action, d'humour, de suspense et de tragédie, Fullmetal Alchemist est le titre incontournable pour toute mangathèque !Les troupes de Briggs sont lancées dans une lutte sans merci pour le contrôle",
         "postaire": "https://www.bdnet.com/img/couvpage/58/9782820346582_cg.jpg"
       }
-
-    ],
-    "populaire":[
-        {
-            "id": 0,
-            "nomMonga": "Radiant - Tome 18 ",
-            "Editeur": "Ankama",
-            "collection": "26 août 2022 (États-Unis)",
-            "Nombre_pages": 184,
-            "propos": "Alors que l’affrontement contre les Domitors fait rage, Seth parvient à expulser Piodon du champ de bataille. Profitant de la cohue, Grimm, Ocoho, Diabal et Lupa s’échappent, emportant Seth inconscient. En chemin, ils récupèrent Doc et Mélie qui est parvenue à accomplir le rituel qui la lie à son Némésis.Une fois en sécurité, Lupa révèle qu’Adhès veut soumettre le monde au jugement dernier. Seth jure alors de contrer le plan ‘’Tartaros’’.",
-            "postaire": "https://images.epagine.fr/077/9791033514077_1_75.jpg"
-          },
-          {
-            "id": 1,
-            "nomMonga": "Goblin Slayer ",
-            "Editeur": "Kurokawa Eds",
-            "collection": "Shonen Up",
-            "Nombre_pages": 180,
-            "propos": " Je ne sauve pas le monde. Je ne fais que tuer des gobelins. Le Crève-gobelins et son groupe contre-attaquent les gobelins qui assaillent le nouveau camp d'entrainement pour aventuriers. Au fond de la grotte, quelle stratégie le Crève-gobelins va-t-il mettre en œuvre  Apparemment, c'est pour un mariage.",
-            "postaire": "https://www.manga-news.com/public/images/series/Goblin-Slayer-Manga-1-kurokawa.jpg"
-          },
-          {
-            "id": 2,
-            "nomMonga":"The Rising Of The Shield Hero",
-            "Editeur": "Bamboo Eds",
-            "collection": "Doki Doki",
-            "Nombre_pages": 176,
-            "propos": "Pour voler au secours des enfants semi-humains, Naofumi et ses compères s'inscrivent incognito à un tournoi clandestin !On est chez nous... c'est notre village, ici ! t on le défendra quoi qu'il en coûte !Naofumi et le reste de sa compagnie se rendent à Zeltoble, où ils obtiennent la preuve irréfutable que des enfants semi-humains originaires du village de Lurolona sont vendus comme esclaves au cours d'enchères clandestines. Bien décidés à les arracher à cet effroyable destin, ils décident de gagner la plus grosse somme...",
-            "postaire":"https://m.media-amazon.com/images/M/MV5BMTQ2NTA1N2MtMzkxOS00MjQ3LTliODctOTk0ZTk1N2FiMmNlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
-          },
-          {
-            "id": 3,
+     {
+            "id": 6,
             "nomMonga": "Arifureta",
             "Editeur": "Delcourt",
             "collection": "Shonen Tonkam",
             "Nombre_pages": 190,
             "propos": "Hajime est persécuté par sa classe. Lorsque sa classe est envoyée dans un autre monde, tous acquièrent des compétences magiques, alors que lui n'obtient que celle d'artisan. Trahi par un de ses camarades, blessé et laissé pour mort dans un donjon, il se réveille dans un niveau très élevé et peuple de puissants monstres. Il se jure de devenir plus fort pour remonter a` la surface et se venge",
             "postaire": "https://m.media-amazon.com/images/M/MV5BNjhmZTYzNTUtMjM3My00MTFjLTk5MDQtMGI2ZDlkNjk4ZTMzXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
-          },
-          {
-            "id": 4,
+     },
+     {
+            "id": 7,
             "nomMonga": "Demon Slave",
             "Editeur": "Kurokawa Eds",
             "collection": "Shonen",
             "Nombre_pages":192 ,
             "propos": "Quand le scénariste de Red Eyes Sword donne le pouvoir aux femmes et enchaîne son héros !Les Yaraijin passent enfin à l'offensive !Alors que l'état d'urgence est décrété sur Mato, les différents escadrons subissent des offensives simultanées. Une ancienne Commandante du 7e escadron, Yumeji Shimomura, a pour mission de s'attaquer à la jeune Konomi Tatara, Commandante du 1er escadron.Kyôka, Riu et Yûki se lancent à sa poursuite mais Yumeji utilise ses pouvoirs pour les séparer en deux groupes ! Konomi pourra-t-elle...",
             "postaire": "https://www.manga-news.com/public/images/series/Demon-slave--1-kurokawa.jpg"
-          },
-           {
-            "id": 5,
+     },
+     {
+            "id": 8,
             "nomManga": "One Piece - Luffy versus la bande à Baggy",
             "Editeur": "Glénat",
             "collection": "Shônen",
             "Nombre_pages":208 ,
             "propos": "Luffy fait la connaissance de Nami, une ravissante jeune fille maîtrisant la navigation. Seulement, Nami déteste les pirates et refuse d’entrer dans son équipage. Pire, elle fait prisonnier Luffy, pour le livrer au terrible… Baggy le clown !",
             "postaire": "https://m.media-amazon.com/images/I/51ojWiEDz6L._AC_UF1000,1000_QL80_.jpg"
-          }
+     }
+
     ]
-  }
